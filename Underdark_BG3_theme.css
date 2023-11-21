@@ -2,7 +2,7 @@
  * @name **
  * @author PseudoNox49
  * @version 1.0.0
- * @description Vencord/betterdiscord theme 
+ * @description Bg3 Underdark inspired theme
  * @source *!!* put github link here
  * @website https://clearvision.github.io
  * @invite dHaSxn3
@@ -52,11 +52,6 @@
   --background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
   --background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
   --background-blur: 0px; /* app background blur [default: 0px] */
-
-  /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
-  --home-position: center; /* home button icon position [default: center] */
-  --home-size: 40px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
