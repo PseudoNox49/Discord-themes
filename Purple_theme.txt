@@ -16,21 +16,21 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --main-color: #4a108c; /* main accent color (hex, rgb or hsl) [default: #4a108c] */
+  --hover-color: #6523b1; /* hover accent color (hex, rgb or hsl) [default: #6523b1] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
-  --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
+  --online-color: #9160db; /* online status color (hex, rgb or hsl) [default: #9160db] */
   --idle-color: #faa61a; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
-  --dnd-color: #9160db; /* dnd status color (hex, rgb or hsl) [default: #982929] */
+  --dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
   --streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
   /* GENERAL */
-  --main-font: Ink Free, Perpetua Titling MT, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
+  --main-font: Century Schoolbook, Perpetua Titling MT, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: Century Schoolbook, Helvetica Neue, Helvetica, Arial, sans-serif] */
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
   --text-normal: rgb(220, 221, 222); /* color of default discord text */
   --text-muted: rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
@@ -38,9 +38,9 @@
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
-  --background-shading: 10%; /* app background shading (0 for complete smoothness) [default: 100%] */
+  --background-shading: 25%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://i.pinimg.com/736x/43/6c/c8/436cc81a6a8e8c60937de8bde23e220b.jpg)]*/
+  --background-image: url(https://cdnb.artstation.com/p/assets/images/images/039/214/733/large/piotr-dura-dnd-swamp2k.jpg); /* app background image (link must be HTTPS) [default: url(https://cdnb.artstation.com/p/assets/images/images/039/214/733/large/piotr-dura-dnd-swamp2k.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
