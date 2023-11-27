@@ -39,7 +39,7 @@
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
-  --background-shading: 25%; /* app background shading (0 for complete smoothness) [default: 100%] */
+  --background-shading: 35%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.2); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
   --background-image: url(https://rare-gallery.com/mocahbig/1307348-Baldurs-Gate-3-4k-Ultra-HD-Wallpaper.jpg); /* app background image (link must be HTTPS) [default: url(https://cdnb.artstation.com/p/assets/images/images/039/214/733/large/piotr-dura-dnd-swamp2k.jpg)]*/
   --background-position: center; /* app background position [default: center] */
